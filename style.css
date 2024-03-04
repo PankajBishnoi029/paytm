@@ -1,0 +1,245 @@
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+   font-family: sans-serif;   
+}
+
+.gs{
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    height: 10.6vh;
+    width: auto;
+   box-shadow: 2px 2px 2px  rgb(214, 211, 211);
+}
+
+.asp{
+    height: 11vh;
+    width: 80vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 38vh;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(62, 61, 61);
+    font-size: small;
+}
+.img1{
+    display: flex;
+    padding-left: 70px;
+    height: 38px;
+    width: 130px;
+    
+}
+.ajk{
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 30px;
+    font-size: smaller;
+    width: 70px;
+    border-radius: 35px 35px 35px 35px;
+    background-color: #00BAF2;
+    margin-left: 45vh;
+    padding-left: 1.6vh;
+}
+.circle{
+    height: 28px;
+    width: 28px;
+margin-left: 0.4vh;
+ border-radius: 25px 25px 25px 25px;
+ background-color: black;
+ color: black;
+}
+
+.pa{
+    margin-top: 6vh;
+    height: 14vh;
+    width: 204vh;
+    margin-left: 45px;
+    border-radius: 8px 8px 8px 8px;
+    background-image: linear-gradient(180deg, #024CAF, #14B3FF);
+   
+}
+
+.pa1{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px;
+    font-size: x-small;
+}
+.pa2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+}
+.pa3{
+    display: flex;
+    justify-content: space-around;
+    justify-content: last baseline;
+    color: white;
+    font-size: small;
+    padding-top: 9px;
+}
+
+
+
+
+.bx{
+    margin-top: 3vh;
+ height: 15vh;
+ width: 215vh;
+ margin-left: 2vh;
+}
+
+.bv{
+    color: black;
+    font-size: small;
+}
+
+
+.bj{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+}
+.bn{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-small;
+    padding-top: 4px;
+}
+
+
+
+.bv2{
+    color: black;
+    font-size: small;
+}
+
+
+.bj2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+}
+.bn2{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-small;
+    padding-top: 4px;
+}
+
+
+
+.bv3{
+    color: black;
+    font-size: small;
+}
+
+
+.bj3{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+}
+.bn3{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-small;
+    padding-top: 4px;
+}
+
+
+.sst{
+    height: 15px;
+    margin-left: 100vh;
+    border-radius: 8px 8px 8px 8px;
+    width: 90px;
+    border: 1px solid #a0a0a0;
+    display: flex;
+    justify-content: space-around;
+    font-size: smaller;
+    justify-content: last baseline;
+    color: #00BAF2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.a{
+    font-size: small;
+    text-decoration: none;
+    padding-left: 17vh;
+    color: rgb(92, 90, 90);
+
+
+}
+
+.b{
+    display: flex;
+    padding-left: 2vh;
+    font-size: small;
+    text-decoration: none;
+    color: rgb(92, 90, 90);
+}
+
+.c{
+    font-size: small;
+    text-decoration: none;
+    padding-left: vh;
+    color: rgb(92, 90, 90);
+
+
+}
+.d{
+    font-size: small;
+    text-decoration: none;
+    padding-left: vh;
+    color: rgb(92, 90, 90);
+
+}
+
+.e{
+    font-size: small;
+    text-decoration: none;
+    padding-left: vh;
+    color: rgb(92, 90, 90);
+
+
+}*/
+@media (max-width: 992px) {
+    
+}
+
